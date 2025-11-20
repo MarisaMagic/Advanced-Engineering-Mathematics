@@ -402,6 +402,7 @@ $$
   $$
 
   求 3×3 子式（行列式）：
+  
   $$
   \begin{align*}
   \det(\lambda I - A) &= 
@@ -414,7 +415,9 @@ $$
   &= \lambda^3 - 5\lambda^2 + 8\lambda - 4
   \end{align*}
   $$
-   故：
+
+  故：
+
   $$
   \Delta_3 = \det(\lambda I - A) = \lambda^3 - 5\lambda^2 + 8\lambda - 4 = (\lambda - 2)^2(\lambda - 1)
   $$
